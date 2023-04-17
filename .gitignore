@@ -1,0 +1,4 @@
+.idea
+mylog.log
+/mylog.log
+*./log
